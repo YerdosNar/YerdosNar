@@ -30,3 +30,19 @@
     alt="arch_logo"
     style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
 </p>
+<p align="center">
+  <details>
+    <summary>
+      <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/glowing_arch.svg"
+           width="400"
+           alt="arch_logo">
+    </summary>
+
+    <br>
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch_failed.jpg"
+         width="400"
+         alt="second_logo"
+         style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
+
+  </details>
+</p>
