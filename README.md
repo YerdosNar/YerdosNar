@@ -2,7 +2,7 @@
 
 💻 Computer Science student at Kangwon National University\
 🥊 Professional boxer & passionate about low-level programming\
-🚀 Currently learning C, Assembly, and low-level programming
+🚀 Currently learning C, Assembly, and other things
 
 ---
 
@@ -14,11 +14,6 @@
 
 ### 🕒 Contribution Graph
 ![GitHub Streak](https://streak-stats.demolab.com?user=YerdosNar&theme=tokyonight)
-
----
-
-### 📈 Lines of Code Counter
-![Lines of code](https://tokei.rs/b1/github/YerdosNar/YerdosNar?category=code)
 
 ---
 
@@ -35,4 +30,3 @@
     alt="arch_logo"
     style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
 </p>
-
