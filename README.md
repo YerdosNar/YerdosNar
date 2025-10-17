@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yerdos
 
-💻 Computer Science student at Kangwon National University
-🥊 Professional boxer & passionate about low-level programming
-🚀 Currently learning C, Assembly, and Neural Networks
+💻 Computer Science student at Kangwon National University\
+🥊 Professional boxer & passionate about low-level programming\
+🚀 Currently learning C, Assembly, and low-level programming
 
 ---
 
@@ -28,4 +28,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch_anime.jpg"
+    width="400"
+    alt="arch_logo"
+    style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
+</p>
 
