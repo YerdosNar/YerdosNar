@@ -17,38 +17,47 @@ I’m passionate about **low-level programming, networking, and security** — a
 
 ---
 
-**Stacks**
 
-<p>
-<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=asm&logoColor=white" />
-<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-</p>
+<div align="center">
+    <h3 align="center">Stacks</h3>
+    <img align="center" alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img align="center" alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=asm&logoColor=white" />
+    <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+    <img align="center" alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+    <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img align="center" alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+</div>
 
 ---
+<h3 align="center">📊 My GitHub Overview</h3>
 <a href="https://github.com/YerdosNar#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" style="border: solid; border-radius: 10px;" width="100%">
 </a>
 
 <a href="https://github.com/YerdosNar#gh-dark-mode-only">
-
-| Top Languages by Repo | My Stats |
-| ---------------------- | -------- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight" height="100%" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=YerdosNar&layout=comapct&theme=tokyonight" height="100%" width="100%" align="center"> |
+<table align="center" style="border: solid; border-radius: 10px;">
+  <tr>
+    <td align="center" height="200" width="42%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="100%" width="100%" alt="Top Languages" />
+    </td>
+    <td align="center" height="200" width="58%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YerdosNar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Yerdos's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 </a>
 
 ### 📦 My Open Source Projects
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody>
+<a href="https://github.com/YerdosNar#gh-dark-mode-only">
+<table style="border: solid; border-radius: 10px"><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody>
 <tr><td><a href="https://github.com/YerdosNar/digitNN"><b>digitNN</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></td><td><a href="https://github.com/YerdosNar/digitNN/issues"><img alt=Issues src="https://img.shields.io/github/issues/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/digitNN/pulls"><img alt="PRs"src="https://img.shields.io/github/issues-pr/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/digitNN/commits"><img alt="Last Commit"src="https://img.shields.io/github/last-commit/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td></tr>
 <tr><td><a href="https://github.com/YerdosNar/3x-ui-auto"><b>3x-ui-auto</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/issues"><img alt=Issues src="https://img.shields.io/github/issues/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/pulls"><img alt="PRs"src="https://img.shields.io/github/issues-pr/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/commits"><img alt="Last Commit"src="https://img.shields.io/github/last-commit/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td></tr>
 </tbody></table>
+</a>
 
 ---
 
