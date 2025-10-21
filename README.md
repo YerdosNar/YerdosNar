@@ -39,7 +39,7 @@ I’m passionate about **low-level programming, networking, and security** — a
 
 | Top Languages by Repo | My Stats |
 | ---------------------- | -------- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=YerdosNar&layout=comapct&theme=tokyonight" width="100%" align="center"> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight" height="100%" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=YerdosNar&layout=comapct&theme=tokyonight" height="100%" width="100%" align="center"> |
 
 </a>
 
