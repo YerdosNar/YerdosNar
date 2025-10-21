@@ -1,10 +1,10 @@
 <h1> Yerdos 👨‍💻 &nbsp;&nbsp; ( &nbsp;
-<a href="mailto:besway2000@gmail.com" align="center">
-  <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/YerdosNar" align="center">
-  <img alt="Yerdos on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
-</a> &nbsp;)</h1>
+    <a href="mailto:besway2000@gmail.com" align="center">
+        <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/YerdosNar" align="center">
+        <img alt="Yerdos on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
+    </a> &nbsp;)</h1>
 
 Hi! I'm **Yerdos**, a 💻 Computer Science & Engineering student and 🥊 boxer living in 🇰🇷 Korea.
 I’m passionate about **low-level programming, networking, and security** — and I’m currently diving deeper into **C, Assembly, and system-level development**.
@@ -32,9 +32,9 @@ I’m passionate about **low-level programming, networking, and security** — a
 
 ---
 <h3 align="center">📊 My GitHub Overview</h3>
-<a href="https://github.com/YerdosNar#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" style="border: solid; border-radius: 10px;" width="100%">
-</a>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="99%"/>
+</div>
 
 
 <div align="center">
@@ -46,10 +46,11 @@ I’m passionate about **low-level programming, networking, and security** — a
 ### 📦 My Open Source Projects
 
 <a href="https://github.com/YerdosNar#gh-dark-mode-only">
-<table style="border: solid; border-radius: 10px"><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody>
-<tr><td><a href="https://github.com/YerdosNar/digitNN"><b>digitNN</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></td><td><a href="https://github.com/YerdosNar/digitNN/issues"><img alt=Issues src="https://img.shields.io/github/issues/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/digitNN/pulls"><img alt="PRs"src="https://img.shields.io/github/issues-pr/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/digitNN/commits"><img alt="Last Commit"src="https://img.shields.io/github/last-commit/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td></tr>
-<tr><td><a href="https://github.com/YerdosNar/3x-ui-auto"><b>3x-ui-auto</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/issues"><img alt=Issues src="https://img.shields.io/github/issues/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/pulls"><img alt="PRs"src="https://img.shields.io/github/issues-pr/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/commits"><img alt="Last Commit"src="https://img.shields.io/github/last-commit/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td></tr>
-</tbody></table>
+    <table style="border: solid; border-radius: 10px"><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody>
+        <tr><td><a href="https://github.com/YerdosNar/digitNN"><b>digitNN</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></td><td><a href="https://github.com/YerdosNar/digitNN/issues"><img alt=Issues src="https://img.shields.io/github/issues/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/digitNN/pulls"><img alt="PRs"src="https://img.shields.io/github/issues-pr/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/digitNN/commits"><img alt="Last Commit"src="https://img.shields.io/github/last-commit/YerdosNar/digitNN?style=flat-square&labelColor=343b41"></a></td></tr>
+        <tr><td><a href="https://github.com/YerdosNar/3x-ui-auto"><b>3x-ui-auto</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/issues"><img alt=Issues src="https://img.shields.io/github/issues/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/pulls"><img alt="PRs"src="https://img.shields.io/github/issues-pr/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/3x-ui-auto/commits"><img alt="Last Commit"src="https://img.shields.io/github/last-commit/YerdosNar/3x-ui-auto?style=flat-square&labelColor=343b41"></a></td></tr>
+        <tr><td><a href="https://github.com/YerdosNar/png"><b>png</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/YerdosNar/png?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/YerdosNar/png?style=flat-square&labelColor=343b41"></td><td><a href="https://github.com/YerdosNar/png/issues"><img alt=Issues src="https://img.shields.io/github/issues/YerdosNar/png?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/png/pulls"><img alt="PRs"src="https://img.shields.io/github/issues-pr/YerdosNar/png?style=flat-square&labelColor=343b41"></a></td><td><a href="https://github.com/YerdosNar/png/commits"><img alt="Last Commit"src="https://img.shields.io/github/last-commit/YerdosNar/png?style=flat-square&labelColor=343b41"></a></td></tr>
+    </tbody></table>
 </a>
 
 ---
@@ -57,8 +58,8 @@ I’m passionate about **low-level programming, networking, and security** — a
 <p align="center">This <i>README</i> refreshes every few hours automatically.<br>Last updated: 2025-10-17</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch.png"
-    width="400"
-    alt="arch_logo"
-    style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch.png"
+        width="400"
+        alt="arch_logo"
+        style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
 </p>
