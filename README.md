@@ -36,19 +36,12 @@ I’m passionate about **low-level programming, networking, and security** — a
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" style="border: solid; border-radius: 10px;" width="100%">
 </a>
 
-<a href="https://github.com/YerdosNar#gh-dark-mode-only">
-<table align="center" style="border: solid; border-radius: 10px;">
-  <tr>
-    <td align="center" height="200" width="42%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="100%" width="100%" alt="Top Languages" />
-    </td>
-    <td align="center" height="200" width="58%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YerdosNar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Yerdos's GitHub Stats" />
-    </td>
-  </tr>
-</table>
 
-</a>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="100%" width="39%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YerdosNar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="100%" width="59%" alt="Yerdos's GitHub Stats" />
+</div>
+
 
 ### 📦 My Open Source Projects
 
