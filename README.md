@@ -6,25 +6,24 @@
         <img alt="Yerdos on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
     </a> &nbsp;)</h1>
 
-Hi! I'm **Yerdos**, a 💻 Computer Science & Engineering student and 🥊 boxer living in 🇰🇷 Korea.
-I’m passionate about **low-level programming, networking, and security** — and I’m currently diving deeper into **C, Assembly, and system-level development**.
+I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea.\
+I’m passionate about **low-level programming, networking, and security** — and I’m currently learning deeper **C, Assembly, and system-level development**.
 
 - 🔭 I’m currently working on: Network simulation and protocol security research.
 - 🌱 I’m currently learning: Reverse engineering, VPN obfuscation, and compiler design.
 - 🤔 I’m looking for help with: Efficient C-based implementations for network protocols.
-<!-- - ⚡ Fun fact: I box professionally and code all night. 🥊💻 -->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YerdosNar) | [GitHub](https://github.com/YerdosNar)
-
+<!-- - ⚡ Fun fact: I box professionally and code all night. 🥊💻 -->
 ---
-
-
 <div align="center">
     <h3 align="center">Stacks</h3>
     <img align="center" alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
     <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img align="center" alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=asm&logoColor=white" />
     <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-    <img align="center" alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+    <a href="https://github.com/YerdosNar/Neovim.git">
+        <img align="center" alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+    </a>
     <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img align="center" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
     <img align="center" alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
@@ -35,7 +34,6 @@ I’m passionate about **low-level programming, networking, and security** — a
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="99%"/>
 </div>
-
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="100%" width="39%" alt="Top Languages" />
