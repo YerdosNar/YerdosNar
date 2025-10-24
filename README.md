@@ -32,7 +32,8 @@ I’m passionate about **low-level programming, networking, and security** — a
 ---
 <h3 align="center">📊 My GitHub Overview</h3>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="99%"/>
+    <img src="https://streak-stats.demolab.com?user=YerdosNar&theme=tokyonight&hide_border=true" width="41%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="57%"/>
 </div>
 
 <div align="center">
