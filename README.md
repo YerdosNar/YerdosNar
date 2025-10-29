@@ -3,8 +3,9 @@
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/YerdosNar" align="center">
-        <img alt="Yerdos on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
-    </a> &nbsp;)</h1>
+        <img alt="LinkedIn" width="22" border-radius="11" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
+    </a> &nbsp;)
+</h1>
 
 I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea.\
 I’m passionate about **low-level programming, networking, and security** — and I’m currently learning deeper **C, Assembly, and system-level development**.
@@ -32,8 +33,8 @@ I’m passionate about **low-level programming, networking, and security** — a
 ---
 <h3 align="center">📊 My GitHub Overview</h3>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=YerdosNar&theme=tokyonight&hide_border=true" width="41%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="57%"/>
+    <img src="https://streak-stats.demolab.com?user=YerdosNar&theme=tokyonight&hide_border=true" width="41%" alt="streak"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="57%" alt="summary"/>
 </div>
 
 <div align="center">
