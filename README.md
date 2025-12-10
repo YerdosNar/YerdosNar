@@ -34,13 +34,13 @@ Try `curl linm-m.com`
 ---
 <h3 align="center">📊 My GitHub Overview</h3>
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=YerdosNar&theme=tokyonight&hide_border=true" width="41%" alt="streak"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" width="57%" alt="summary"/>
+    <img src="./assets/stats/streak.svg" width="41%" alt="streak"/>
+    <img src="./assets/stats/summary.svg" width="57%" alt="summary"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="100%" width="39%" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=YerdosNar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="100%" width="59%" alt="Yerdos's GitHub Stats" />
+    <img src="./assets/stats/top-langs.svg" height="100%" width="39%" alt="Top Languages" />
+    <img src="./assets/stats/main-stats.svg" height="100%" width="59%" alt="Yerdos's GitHub Stats" />
 </div>
 
 
