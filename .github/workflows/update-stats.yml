@@ -1,0 +1,42 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    # Run every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows you to run this manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Create assets directory
+        run: mkdir -p assets/stats
+
+      - name: Download Images
+        run: |
+          # 1. Download Streak Stats
+          curl -L "https://streak-stats.demolab.com?user=YerdosNar&theme=tokyonight&hide_border=true" -o assets/stats/streak.svg
+
+          # 2. Download Summary Card (Note: I switched this to HTTPS)
+          curl -L "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YerdosNar&theme=tokyonight" -o assets/stats/summary.svg
+
+          # 3. Download Top Languages
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" -o assets/stats/top-langs.svg
+
+          # 4. Download Main Stats
+          curl -L "https://github-readme-stats.vercel.app/api?username=YerdosNar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" -o assets/stats/main-stats.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add assets/stats/*.svg
+          # Only commit if there are changes (prevents errors if images haven't changed)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile stats images" && git push)
