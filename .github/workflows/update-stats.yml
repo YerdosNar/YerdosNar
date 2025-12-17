@@ -3,7 +3,7 @@ name: Update Profile Stats
 on:
   schedule:
     # Run every 12 hours
-    - cron: '0 */12 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Allows you to run this manually from the Actions tab
 
 permissions:
