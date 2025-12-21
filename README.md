@@ -14,7 +14,9 @@ I’m passionate about **low-level programming, networking, and security** — a
 - 🌱 I’m currently learning: Reverse engineering, VPN obfuscation, and compiler design.
 - 🤔 I’m looking for help with: Efficient C-based implementations for network protocols.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YerdosNar) | [GitHub](https://github.com/YerdosNar)\
-Try `curl linm-m.com`
+╔═════════════════╗\
+║Try `curl linm-m.com` ║\
+╚═════════════════╝
 <!-- - ⚡ Fun fact: I box professionally and code all night. 🥊💻 -->
 ---
 <div align="center">
