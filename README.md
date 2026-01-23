@@ -41,8 +41,8 @@ I’m passionate about **low-level programming, networking, and security** — a
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/top-langs.svg" height="100%" width="39%" alt="Top Languages" />
-    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/main-stats.svg" height="100%" width="59%" alt="Yerdos's GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/top-langs.svg" height="100%" width="36%" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/main-stats.svg" height="100%" width="62%" alt="Yerdos's GitHub Stats" />
 </div>
 
 
