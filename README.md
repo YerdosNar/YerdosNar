@@ -36,13 +36,13 @@ I’m passionate about **low-level programming, networking, and security** — a
 ---
 <h3 align="center">📊 My GitHub Overview</h3>
 <div align="center">
-    <img src="./assets/stats/streak.svg" width="41%" alt="streak"/>
-    <img src="./assets/stats/summary.svg" width="57%" alt="summary"/>
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/streak.svg" width="41%" alt="streak"/>
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/summary.svg" width="57%" alt="summary"/>
 </div>
 
 <div align="center">
-    <img src="./assets/stats/top-langs.svg" height="100%" width="39%" alt="Top Languages" />
-    <img src="./assets/stats/main-stats.svg" height="100%" width="59%" alt="Yerdos's GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/top-langs.svg" height="100%" width="39%" alt="Top Languages" />
+    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/stats/main-stats.svg" height="100%" width="59%" alt="Yerdos's GitHub Stats" />
 </div>
 
 
