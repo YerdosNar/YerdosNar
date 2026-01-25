@@ -59,7 +59,7 @@ I’m passionate about **low-level programming, networking, and security** — a
 
 ---
 
-<p align="center">This <i>README</i> refreshes every few hours automatically.<br>Last updated: 2025-12-12</p>
+<p align="center">This <i>README</i> refreshes every few hours automatically.<br>Last updated: 2026-01-26</p>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch.png"
