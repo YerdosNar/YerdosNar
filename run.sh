@@ -1,5 +1,22 @@
 #!/usr/bin/env bash
 
+if [[ $# == 0 || "$1" == "-h" || "$1" == "--help" ]]; then
+    echo "+===================================================+"
+    echo "| Usage: ./run.sh <options>                         |"
+    echo "+---------------------------------------------------+"
+    echo "| Options:                                          |"
+    echo "|   -s,  --streak       Show streak                 |"
+    echo "|   -m,  --summary      Show summary                |"
+    echo "|   -t,  --top-langs    Show top languages          |"
+    echo "|   -st, --stats        Show stats                  |"
+    echo "|   -a,  --all          Show all listed above       |"
+    echo "|   -h,  --help         Show help message           |"
+    echo "+---------------------------------------------------+"
+    echo "| Example:                                          |"
+    echo "|   ./run.sh --all      Downloads all the images    |"
+    echo "+===================================================+"
+fi
+
 if [[ "$1" == "-s" || "$1" == "--streak" ]]; then
     # 1. Download Streak Stats
     curl -L "https://streak-stats.demolab.com?user=YerdosNar&theme=tokyonight&hide_border=true" -o assets/stats/streak.svg
