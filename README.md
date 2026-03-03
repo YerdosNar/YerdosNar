@@ -13,7 +13,7 @@ I’m passionate about **low-level programming, networking, and security** — a
 - 🔭 I’m currently working on: Network simulation and protocol security research.
 - 🌱 I’m currently learning: Reverse engineering, VPN obfuscation, and compiler design.
 - 🤔 I’m looking for help with: Efficient C-based implementations for network protocols.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YerdosNar) | [GitHub](https://github.com/YerdosNar)\
+- 📫 How to reach me: [EMail](mailto:besway2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/YerdosNar) | [GitHub](https://github.com/YerdosNar) | [IG](https://instagram.com/uvenni)\
 ╔═════════════════╗\
 ║Try `curl linm-m.com` ║\
 ╚═════════════════╝
