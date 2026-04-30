@@ -1,4 +1,4 @@
-<h1> Yerdos 👨‍💻 &nbsp;&nbsp; ( &nbsp;
+<h1> Yerdos &nbsp;&nbsp; ( &nbsp;
     <a href="mailto:besway2000@gmail.com" align="center">
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
     </a>&nbsp;
@@ -8,7 +8,7 @@
 </h1>
 
 I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea.\
-I’m passionate about **low-level programming, networking, and security** — and I’m currently learning deeper **C, Assembly, and system-level development**.
+I’m interested in **low-level programming, networking, and security** — and I’m currently learning deeper **C, Assembly, and system-level development**.
 
 - 🔭 I’m currently working on: Network simulation and protocol security research.
 - 🌱 I’m currently learning: Reverse engineering, VPN obfuscation, and compiler design.
