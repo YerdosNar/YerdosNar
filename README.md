@@ -7,8 +7,9 @@
     </a> &nbsp;)
 </h1>
 
-I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea.\
-I’m interested in **low-level programming, networking, and security** — and I’m currently learning deeper **C, Assembly, and system-level development**.
+I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea,\
+interested in **low-level programming, networking, and security** \
+Currently learning deeper **C, Assembly, and system-level development**.
 
 - 🔭 I’m currently working on: Network simulation and protocol security research.
 - 🌱 I’m currently learning: Reverse engineering, VPN obfuscation, and compiler design.
