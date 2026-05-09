@@ -1,14 +1,4 @@
-<h1> Yerdos &nbsp;&nbsp; ( &nbsp;
-    <a href="mailto:besway2000@gmail.com" align="center">
-        <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
-    </a>&nbsp;
-    <a href="https://instagram.com/uvenni" align="center">
-        <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" />
-    </a>&nbsp;
-    <a href="https://www.linkedin.com/in/YerdosNar" align="center">
-        <img alt="LinkedIn" width="22" border-radius="11" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
-    </a> &nbsp;)
-</h1>
+<h1> Yerdos </h1>
 
 I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea,\
 interested in **low-level programming, networking, and security** \
@@ -17,9 +7,22 @@ Currently learning deeper **C, Assembly, and system-level development**.
 - 🔭 I’m currently working on: Network simulation and protocol security research.
 - 🌱 I’m currently learning: Reverse engineering, VPN obfuscation, and compiler design.
 - 🤔 I’m looking for help with: Efficient C-based implementations for network protocols.
-- 📫 How to reach me: [EMail](mailto:besway2000@gmail.com) | [LinkedIn](https://www.linkedin.com/in/YerdosNar) | [GitHub](https://github.com/YerdosNar) | [IG](https://instagram.com/uvenni)\
+- 📫 How to reach me:
+    <a href="mailto:besway2000@gmail.com" align="center">
+        <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
+    </a>&nbsp;
+    <a href="https://github.com/YerdosNar" align="center">
+        <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" />
+    </a>&nbsp;
+    <a href="https://instagram.com/uvenni" align="center">
+        <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" />
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/YerdosNar" align="center">
+        <img alt="LinkedIn" width="22" border-radius="11" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
+    </a>
+
 ╔═══════════════╗\
-║Try `curl linm-m.com`. ║\
+║Try `curl linm-m.com`&nbsp; ║\
 ╚═══════════════╝
 <!-- - ⚡ Fun fact: I box professionally and code all night. 🥊💻 -->
 ---
