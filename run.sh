@@ -32,13 +32,13 @@ summary() {
 top-langs() {
     echo -e "\033[32mDownloading TOP-LANGS\033[0m"
     # 3. Download Top Languages
-    curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" -o assets/stats/top-langs.svg
+    curl -L "https://github-stats-extended.vercel.app/api/top-langs/?username=YerdosNar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" -o assets/stats/top-langs.svg
 }
 
 stats() {
     echo -e "\033[32mDownloading STATS\033[0m"
     # 4. Download Main Stats
-    curl -L "https://github-readme-stats.vercel.app/api?username=YerdosNar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" -o assets/stats/main-stats.svg
+    curl -L "https://github-stats-extended.vercel.app/api?username=YerdosNar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" -o assets/stats/main-stats.svg
 }
 
 if [[ "$1" == "-s" || "$1" == "--streak" ]]; then
