@@ -1,45 +1,28 @@
 <h1> Yerdos </h1>
 
-I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea,\
-interested in **low-level programming, networking, and security** \
-Currently learning deeper **C, Assembly, and system-level development**.
-
-- 🔭 I’m currently working on: Network simulation and protocol security research.
-- 🌱 I’m currently learning: Reverse engineering, VPN obfuscation, and compiler design.
-- 🤔 I’m looking for help with: Efficient C-based implementations for network protocols.
-- 📫 How to reach me:
+I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea.
+- Interested in: low-level programming, networking, and security.
+- Currently working on: Network simulation and protocol security research.
+- Currently learning: Reverse engineering, VPN obfuscation, and compiler design.
+- Looking for help with: Efficient C-based implementations for network protocols.
+- How to reach me:\
     <a href="mailto:besway2000@gmail.com" align="center">
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
-    </a>&nbsp;
+    </a> - **[besway2000@gmail.com](mailto:besway2000@gmail.com)**<br>
     <a href="https://github.com/YerdosNar" align="center">
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" />
-    </a>&nbsp;
+    </a> - **[@YerdosNar](https://github.com/YerdosNar)**<br>
     <a href="https://instagram.com/uvenni" align="center">
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" />
-    </a>&nbsp;
+    </a> - **[@uvenni](https://instagram.com/uvenni)**<br>
     <a href="https://www.linkedin.com/in/YerdosNar" align="center">
         <img alt="LinkedIn" width="22" border-radius="11" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
-    </a>
+    </a> - **[@YerdosNar](https://www.linkedin.com/in/YerdosNar)**
 
 ╔═══════════════╗\
 ║Try `curl linm-m.com`&nbsp; ║\
 ╚═══════════════╝
 <!-- - ⚡ Fun fact: I box professionally and code all night. 🥊💻 -->
----
-<div align="center">
-    <h3 align="center">Stacks</h3>
-    <img align="center" alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
-    <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img align="center" alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=asm&logoColor=white" />
-    <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-    <a href="https://github.com/YerdosNar/Neovim.git">
-        <img align="center" alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-    </a>
-    <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img align="center" alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-</div>
-
 ---
 <h3 align="center">📊 My GitHub Overview</h3>
 <div align="center">
@@ -66,8 +49,22 @@ Currently learning deeper **C, Assembly, and system-level development**.
 </a>
 
 ---
+<div align="center">
+    <h3 align="center">Stacks</h3>
+    <img align="center" alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+    <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img align="center" alt="Assembly" src="https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square&logo=asm&logoColor=white" />
+    <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+    <a href="https://github.com/YerdosNar/Neovim.git">
+        <img align="center" alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
+    </a>
+    <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img align="center" alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+</div>
 
-<p align="center">This <i>README</i> refreshes every few hours automatically.<br>Last updated: 2026-05-09</p>
+
+---
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch.png"
@@ -75,3 +72,4 @@ Currently learning deeper **C, Assembly, and system-level development**.
         alt="arch_logo"
         style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
 </p>
+<p align="center">Last updated: 2026-05-18</p>
