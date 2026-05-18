@@ -1,11 +1,11 @@
 <h1> Yerdos </h1>
 
 I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea.
-- Interested in: low-level programming, networking, and security.
-- Currently working on: Network simulation and protocol security research.
-- Currently learning: Reverse engineering, VPN obfuscation, and compiler design.
-- Looking for help with: Efficient C-based implementations for network protocols.
-- How to reach me:\
+- **Interested in**: low-level programming, networking, and security.
+- **Working on**: Network simulation and protocol security research.
+- **Learning**: Reverse engineering, VPN obfuscation, and compiler design.
+- **Looking for help with**: Efficient C-based implementations for network protocols.
+- **How to reach me**:\
     <a href="mailto:besway2000@gmail.com" align="center">
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
     </a> - **[besway2000@gmail.com](mailto:besway2000@gmail.com)**<br>
