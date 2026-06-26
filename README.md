@@ -63,13 +63,23 @@ I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷
     <img align="center" alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
 </div>
 
+---
+<div align="center">
+    <details>
+        <summary>Git Animal</summary>
+        <a href="https://github.com/devxb/gitanimals">
+            <img src="https://render.gitanimals.org/lines/YerdosNar?pet-id=1"
+            width="100%" height="120"
+            />
+        </a>
+        <p align="center">
+            <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch.png"
+                width="400"
+                alt="arch_logo"
+                style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
+        </p>
+    </details>
+</div>
 
 ---
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/YerdosNar/YerdosNar/master/assets/arch.png"
-        width="400"
-        alt="arch_logo"
-        style="border-radius: 20px; box-shadow: 0px 0px 10px #222;">
-</p>
 <p align="center">Last updated: 2026-05-18</p>
