@@ -1,6 +1,6 @@
 <h1> Yerdos </h1>
 
-I'm **Yerdos**, a 💻 Computer Science & Engineering student living in 🇰🇷 Korea.
+I'm **Yerdos**, a Computer Science & Engineering student living in Korea.
 - **Interested in**: low-level programming, networking, and security.
 - **Working on**: Network simulation and protocol security research.
 - **Learning**: Reverse engineering, VPN obfuscation, and compiler design.
