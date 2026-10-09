@@ -1,0 +1,10 @@
+Familiar with UNIX-like environment:
+I manage my own server (Debian Linux), where I have installed my own AdBlock, and VPN (Proxy service). Also, I use Arch Linux as my main Operating System. I have been preparing for RHCSA exam, so I am familiar with RHEL-like Alma Linux. I setup dual booting to Void Linux to learn different init-system other than SystemD. 
+
+Familiarity with Low-level programming:
+Most of my projects in github (https://github.com/YerdosNar) are made in C, with Bash used for installation or Makefile for compilation. I have learnt Assembly (Intel syntax, MIPS), and have knowledge of using GDB for debugging. Wrote more 1000 lines of Bash script to install 3X-UI in a remote server, with full auto management. I have aced my Embedded System class, where we used RaspberryPi 4.
+
+Familiar with Git: All my projects can be found at https://github.com/YerdosNar and maintained using Git.
+
+Familiar with Computer Hardware management:
+Worked in a local PC building company. I have interest in hardware, have built different kinds of PCs including Gaming and Office PC.

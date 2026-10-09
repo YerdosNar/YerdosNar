@@ -1,0 +1,4 @@
+The position description states: knowledge of C, hardware is required, and knowledge of English, Git, and debugging tools is preferred. 
+I meet the requirements and preferences perfectly. I mostly code in C, and very familiar with hardware. I speak English, Korean, Russian, 3 more other languages. I maintain my project using Git, and use Github as remote repository. Since I mostly code in C, I have learnt GDB, and ASan (Address Sanitizer).
+
+Even though I don't have any experience working in a company where I used my programming skills. I hope to get a chance in this company.
