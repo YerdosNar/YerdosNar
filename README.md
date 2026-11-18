@@ -8,7 +8,10 @@ I'm **Yerdos**, a Computer Science & Engineering student living in Korea.
 - **How to reach me**:\
     <a href="mailto:besway2000@gmail.com" align="center">
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" />
-    </a> - **[besway2000@gmail.com](mailto:besway2000@gmail.com)**<br>
+    </a> - **[yerdosnarzhigit@gmail.com](mailto:yerdosnarzhigit@gmail.com)**<br>
+    <a href="https://linm-m.com" align="center">
+        <img alt="Website" width="22" src="./assets/website-logo-svg.svg"/>
+    </a> - **[linm-m.com](https://linm-m.com)**<br>
     <a href="https://github.com/YerdosNar" align="center">
         <img alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" />
     </a> - **[@YerdosNar](https://github.com/YerdosNar)**<br>
@@ -17,7 +20,7 @@ I'm **Yerdos**, a Computer Science & Engineering student living in Korea.
     </a> - **[@uvenni](https://instagram.com/uvenni)**<br>
     <a href="https://www.linkedin.com/in/YerdosNar" align="center">
         <img alt="LinkedIn" width="22" border-radius="11" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" />
-    </a> - **[@YerdosNar](https://www.linkedin.com/in/YerdosNar)**
+    </a> - **[@YerdosNar](https://www.linkedin.com/in/YerdosNar)**<br>
 
 ╔═══════════════╗\
 ║Try `curl linm-m.com`&nbsp; ║\
